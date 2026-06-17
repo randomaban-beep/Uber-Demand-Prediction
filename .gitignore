@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+.env
+mlruns/
+
+Dataset/yellow_tripdata_2016-01.csv
+Dataset/yellow_tripdata_2016-02.csv
+Dataset/yellow_tripdata_2016-03.csv
+Dataset/*.csv
